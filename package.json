@@ -1,0 +1,25 @@
+{
+  "name": "hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzonib/nextjs_react-hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzonib/nextjs_react-hooks/issues"
+  },
+  "homepage": "https://github.com/dzonib/nextjs_react-hooks#readme",
+  "dependencies": {
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
